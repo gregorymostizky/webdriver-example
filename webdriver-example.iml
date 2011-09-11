@@ -5,6 +5,13 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Ruby SDK 1.9.2-p180" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.2.2, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spruz (v0.2.13, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.13, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.5.0, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.4, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json_pure (v1.5.4, Ruby SDK 1.9.2-p180) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.0.9, Ruby SDK 1.9.2-p180) [gem]" level="application" />
   </component>
 </module>
 
